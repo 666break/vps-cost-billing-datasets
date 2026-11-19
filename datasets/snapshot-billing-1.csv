@@ -1,0 +1,10 @@
+# source_page,https://serverbudget.com/vps-price-snapshot-billing
+# dataset,Snapshot billing rates by provider
+
+Provider,Published rate,Billed against,Minimum,Prorated?
+DigitalOcean — Droplet snapshot,$0.06 per GiB / month,The size of the snapshot,$0.01,Not stated; the page only mentions a minimum for short-lived snapshots
+DigitalOcean — volume snapshot,$0.06 per GiB / month,The size of the snapshot,$0.01,Not stated
+Hetzner — Cloud snapshot,"€0.0143 per GB / month, excl. VAT",The compressed size in Hetzner's storage,Not stated,"Yes, by fraction of a month"
+OVHcloud — VPS manual backup,from $0.40 per month,Not published per GB,Not stated,Not stated
+"OVHcloud — VPS automatic backup, 7 rolling days",from $1.40 per month,Not published per GB,Not stated,Not stated
+"OVHcloud — VPS standard backup, 24 hours",included,Daily copy held for 24 hours,—,—

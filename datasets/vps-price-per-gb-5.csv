@@ -1,0 +1,7 @@
+# source_page,https://serverbudget.com/vps-price-compare
+# dataset,VPS price per GB at three providers
+
+Provider,Plan,Price now,Renewal,Renewal gap,How it is billed
+DigitalOcean,Basic 1 vCPU / 1 GiB,$6.00,none published on the official page,cannot compute,"Per-second billing, no annual commitment listed"
+OVHcloud,VPS-1,$4.54,none published on the official page,cannot compute,12 months paid upfront
+ScalaHosting,Build #1,$22.46,$54.95/mo,2.45×,12 months prepaid; renews at $54.95/mo

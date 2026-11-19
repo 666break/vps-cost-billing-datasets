@@ -1,0 +1,7 @@
+# source_page,https://serverbudget.com/vps-price-snapshot-billing
+# dataset,Snapshot billing rates by provider
+
+"Hetzner, CX23 (€5.99/mo, 40 GB disk)",What is billed,Monthly
+"Snapshot, if the whole 40 GB is billed",40 GB × €0.0143,€0.572
+"Snapshot, if the data compresses",40 GB or less × €0.0143,€0.572 or less
+"Backup, weekly or daily","20% of €5.99, seven slots",€1.198

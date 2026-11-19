@@ -1,0 +1,7 @@
+# source_page,https://serverbudget.com/vps-price-compare
+# dataset,VPS price per GB at three providers
+
+Provider,Plan,vCPU,RAM,Storage,$/mo,$/GB RAM,$/vCPU,$/GB storage,Source
+DigitalOcean,Basic 8 vCPU / 16 GiB,8,16 GB,320 GB,$96.00,$6.00,$12.00,$0.30,official page read 2026-11-10
+OVHcloud,VPS-4,8,24 GB,200 GB,$23.37,$0.97375,$2.92125,$0.11685,official page read 2026-11-10
+ScalaHosting,Build #4 billed 12 months up front; renews $244.95/mo,12,24 GB,200 GB,$71.21,$2.9671,$5.9342,$0.35605,official page read 2026-11-10

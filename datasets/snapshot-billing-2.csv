@@ -1,0 +1,11 @@
+# source_page,https://serverbudget.com/vps-price-snapshot-billing
+# dataset,Snapshot billing rates by provider
+
+Basic plan,Droplet / month,Disk,Snapshot of the full disk,Weekly backup adds,Daily backup adds
+512 MiB / 1 vCPU,$4.00,10 GiB,$0.60,$0.80,$1.20
+1 GiB / 1 vCPU,$6.00,25 GiB,$1.50,$1.20,$1.80
+2 GiB / 1 vCPU,$12.00,50 GiB,$3.00,$2.40,$3.60
+2 GiB / 2 vCPU,$18.00,60 GiB,$3.60,$3.60,$5.40
+4 GiB / 2 vCPU,$24.00,80 GiB,$4.80,$4.80,$7.20
+8 GiB / 4 vCPU,$48.00,160 GiB,$9.60,$9.60,$14.40
+16 GiB / 8 vCPU,$96.00,320 GiB,$19.20,$19.20,$28.80
