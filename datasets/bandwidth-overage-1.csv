@@ -1,0 +1,8 @@
+# source_page,https://serverbudget.com/vps-price-bandwidth-overage
+# dataset,Bandwidth overage rates by provider
+
+Provider,What the allowance is,What happens past it,Published rate
+DigitalOcean,One pool per team; each Droplet accrues its plan's allowance by the second,Billed per GiB of outbound transfer,$0.01 per GiB
+Hetzner,"Per server: 20 TB at EU locations, 1 TB at US locations","Billed in 100MB blocks, rounded up","€1.00 per additional TB, unit written as “per hour”"
+"OVHcloud, US and EU",“Unlimited traffic” on the plan card,No overage rate published,No charge stated
+"OVHcloud, Asia-Pacific","1 TB, 3 TB or 4 TB per month depending on the plan",Bandwidth limited to 10 Mbps,No charge stated

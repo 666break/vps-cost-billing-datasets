@@ -1,0 +1,8 @@
+# source_page,https://serverbudget.com/vps-price-bandwidth-overage
+# dataset,Bandwidth overage rates by provider
+
+Hetzner plan and location,"Monthly, excl. VAT",Traffic included,Over-usage rule
+"CX23, eu-central (2 vCPU, 4 GB, 40 GB NVMe)",€5.99,20 TB,"100MB blocks, rounded up"
+"CCX13, eu-central (2 vCPU, 8 GB, 80 GB NVMe)",€43.49,20 TB,"100MB blocks, rounded up"
+"CCX13, us-west HIL1",€43.99,1 TB,"100MB blocks, rounded up"
+"CCX13, us-east ASH1",€43.99,1 TB,"100MB blocks, rounded up"

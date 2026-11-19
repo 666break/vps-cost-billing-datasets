@@ -1,0 +1,10 @@
+# source_page,https://serverbudget.com/vps-backup-restore-verification
+# dataset,Backup completion vs restore verification
+
+Provider,Frequency as printed,Copies or retention as printed,Price line as printed,Official source and check date
+"DigitalOcean — fixed percentage, daily",Daily automated backups,"7 backups, 7 days retention [S2]",30% of Droplet cost [S2],"digitalocean.com/products/backups [S2], checked 2026-11-19"
+"DigitalOcean — fixed percentage, weekly",Weekly automated backups,"4 backups, 4 weeks retention [S2]",20% of Droplet cost [S2],"digitalocean.com/products/backups [S2], checked 2026-11-19"
+DigitalOcean — usage-based,"Every 4, 6, or 12 hours; custom retention",3 days up to 6 months [S2],Charged by restorable GiB of data [S2],"digitalocean.com/products/backups [S2], checked 2026-11-19"
+OVHcloud — Standard automatic,Daily [S3],Stored for 24 hours [S3],Included [S3],"us.ovhcloud.com/vps/options [S3], checked 2026-11-19"
+OVHcloud — Premium automatic,Daily [S3],"Seven rolling days, replicated three times in the same datacenter [S3]","Price cell on the page returned ""No results."" in this check [S3]","us.ovhcloud.com/vps/options [S3], checked 2026-11-19"
+OVHcloud — Manual snapshot,"Created manually, on demand [S3]",Deleted once restored [S3],"""Starting at $0.40 Free*"" as printed [S3]","us.ovhcloud.com/vps/options [S3], checked 2026-11-19"

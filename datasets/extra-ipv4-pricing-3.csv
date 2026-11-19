@@ -1,0 +1,7 @@
+# source_page,https://serverbudget.com/vps-price-extra-ipv4
+# dataset,Extra IPv4 address pricing by provider
+
+Provider,Cheapest server,One IPv4,Address as share of server
+DigitalOcean,"$4.00/mo (512 MiB, 1 vCPU)",$5.00,125.0%
+OVHcloud,"$4.54/mo (VPS-1, 2 vCores, 4 GB)",$2.40,52.9%
+Hetzner,not captured on 2026-10-30,$0.60,not computed

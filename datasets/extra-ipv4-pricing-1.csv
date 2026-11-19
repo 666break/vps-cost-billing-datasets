@@ -1,0 +1,11 @@
+# source_page,https://serverbudget.com/vps-price-extra-ipv4
+# dataset,Extra IPv4 address pricing by provider
+
+Provider / product,Monthly,Hourly,State the price applies to
+Hetzner Cloud — Primary IPv4,€0.50 / $0.60 excl. VAT,€0.0008 / $0.0010,"Any address that has finished creation, assigned or not"
+Hetzner Cloud — Primary IPv6,free,—,"Free, and generally not listed on the invoice"
+OVHcloud VPS — Additional IPv4,$2.40 per IP,not published on the VPS pages,"Attached to a VPS, up to 16 addresses"
+"DigitalOcean — reserved IPv4, assigned",$0.00,$0.00,Attached to a Droplet
+"DigitalOcean — reserved IPv4, unassigned",$5.00,$0.01,Reserved but not attached to any Droplet
+DigitalOcean — v5 Droplet public IPv4,$0.00 (introductory),$0.00,Separate invoice line on v5 configurations only
+OVHcloud Public Cloud — Public IP IPv4 (/32),~$2.3287 excl. tax,$0.00319,Attached or not attached to an instance

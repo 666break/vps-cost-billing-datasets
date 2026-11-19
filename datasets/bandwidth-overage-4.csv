@@ -1,0 +1,7 @@
+# source_page,https://serverbudget.com/vps-price-bandwidth-overage
+# dataset,Bandwidth overage rates by provider
+
+"OVHcloud VPS, Asia-Pacific locations",Monthly quota,Past the quota,Charge
+"VPS-1, VPS-2",1 TB,Bandwidth limited to 10 Mbps,None stated
+"VPS-3, VPS-4",3 TB,Bandwidth limited to 10 Mbps,None stated
+"VPS-5, VPS-6",4 TB,Bandwidth limited to 10 Mbps,None stated

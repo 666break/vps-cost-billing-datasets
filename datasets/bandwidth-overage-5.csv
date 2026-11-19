@@ -1,0 +1,8 @@
+# source_page,https://serverbudget.com/vps-price-bandwidth-overage
+# dataset,Bandwidth overage rates by provider
+
+Provider,What the invoice shows,What the customer experiences
+DigitalOcean,$10.00,"A line item. 1,000 GiB × $0.01, added to the cycle's total, billed at the usual monthly close."
+"Hetzner, EU location",€1.00,"10,000 blocks of 100MB at the published per-TB rate. The unit on that rate is written as per hour; see the callout above before budgeting with it."
+"OVHcloud, US or EU",$0.00,No line item. The plan card says unlimited traffic and no overage rate is published.
+"OVHcloud, Asia-Pacific",$0.00,"No line item, and the port drops to 10 Mbps for the rest of the cycle."

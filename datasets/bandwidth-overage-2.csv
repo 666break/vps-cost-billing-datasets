@@ -1,0 +1,11 @@
+# source_page,https://serverbudget.com/vps-price-bandwidth-overage
+# dataset,Bandwidth overage rates by provider
+
+Basic plan,Included transfer,Droplet / month,Overage at $0.01 per GiB
+512 MiB / 1 vCPU,500 GiB,$4.00,$1.00 per 100 GiB
+1 GiB / 1 vCPU,"1,000 GiB",$6.00,$1.00 per 100 GiB
+2 GiB / 1 vCPU,"2,000 GiB",$12.00,$1.00 per 100 GiB
+2 GiB / 2 vCPU,"3,000 GiB",$18.00,$1.00 per 100 GiB
+4 GiB / 2 vCPU,"4,000 GiB",$24.00,$1.00 per 100 GiB
+8 GiB / 4 vCPU,"5,000 GiB",$48.00,$1.00 per 100 GiB
+16 GiB / 8 vCPU,"6,000 GiB",$96.00,$1.00 per 100 GiB
